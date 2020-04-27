@@ -1,0 +1,1 @@
+Poner 4 checkbox para los productos que son libres o no de impuestos
